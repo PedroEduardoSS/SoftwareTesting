@@ -1,0 +1,14 @@
+{
+  "name": "testcypress",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "cypress": "^14.2.0"
+  }
+}
